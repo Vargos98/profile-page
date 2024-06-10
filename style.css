@@ -44,18 +44,20 @@ html,body{
   text-align: right;
 
 }
-#left-top-right h4{
-  margin-bottom: 50px;
+#left-top-right h1{
+  margin-bottom: 30px;
   font-size: 20px;
   font-weight: 500;
   color: #333;
 
 }
 
-#left-top-right h5{
+#left-top-right a{
+  text-decoration: none;
   color: #333;
   font-size: 18px;
   font-weight: 500;
+  transition: 0.3s ease-in;
 
 }
 #left-top-right h6{
@@ -119,13 +121,22 @@ html,body{
   border-radius: 50%;
   color: white;
   transform: translate(-50%,-50%);
+  transition: 0.3s ease-in ;
 
 }
 #arrow i{
   font-size: 40px;
   font-weight: 100;
 }
+#arrow:hover{
+  background-color: orange;
 
+}
+
+#left-top-right a :hover{
+ background-color: orange;
+
+}
 
 /* Media Queries */
 
