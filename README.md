@@ -1,9 +1,8 @@
-Certainly! Here’s a template for your README file on GitHub for a project replicated from Dribbble using HTML, CSS, and Grid Layout:<br/><br/>
+Fashion Look - Website concept<br/><br/>
 Live Link : https://dribble-fashion-week.vercel.app/ <br/><br/>
 Dribble Link: https://dribbble.com/shots/16636382-Fashion-Look-Website-concept
 ---
 
-# Dribbble Design Replication
 
 ## Overview
 This project is a replication of a design I found on [Dribbble]((https://dribbble.com/shots/16636382-Fashion-Look-Website-concept)) using HTML and CSS with a focus on CSS Grid Layout. The purpose of this project is to practice and showcase my front-end development skills, particularly in creating responsive and visually appealing layouts.
