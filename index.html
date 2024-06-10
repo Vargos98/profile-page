@@ -12,6 +12,7 @@
 <link rel="icon" type="image/x-icon" href="./icons8-clothes-sf-black-32.png">
 </head>
 <body>
+  <div id ="splash"></div>
 
   <div id="main">
     <div id="left-top-left">
@@ -44,6 +45,12 @@
       <i class="ri-arrow-right-line"></i>
     </div>
   </div>
+  <script>
+    var loader = document.getElementById("splash");
+    window.addEventListener("load", function(){
+      loader.style.display = "none";
+    },1000)
+   </script>
   
 </body>
 </html>
