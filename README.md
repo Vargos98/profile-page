@@ -48,12 +48,14 @@ This project can be used as a reference for:
 - Creating responsive web designs
 
 ## Screenshots
-![Desktop View](![Screenshot (12)](https://github.com/Vargos98/profile-page/assets/127929058/496518d0-dbf2-4a06-bd22-5fce20e864b0)
-)
+![Desktop View] <br/><br/>
+(![Screenshot (12)](https://github.com/Vargos98/profile-page/assets/127929058/496518d0-dbf2-4a06-bd22-5fce20e864b0)
+<br/><br/>
 *Description: Screenshot of the desktop view*
 
-![Mobile View](![Screenshot (13)](https://github.com/Vargos98/profile-page/assets/127929058/4e5614e6-46f9-4d2d-94f5-482159d54d0e)
-)
+![Mobile View] <br/><br/>
+(![Screenshot (13)](https://github.com/Vargos98/profile-page/assets/127929058/4e5614e6-46f9-4d2d-94f5-482159d54d0e)
+<br/><br/>
 *Description: Screenshot of the mobile view*
 
 ## Contributing
