@@ -48,7 +48,7 @@ This project can be used as a reference for:
 
 ## Screenshots
 ![Desktop View] <br/><br/>
-(![Screenshot (12)](https://github.com/Vargos98/profile-page/assets/127929058/496518d0-dbf2-4a06-bd22-5fce20e864b0)
+![Screenshot (12)](https://github.com/Vargos98/profile-page/assets/127929058/496518d0-dbf2-4a06-bd22-5fce20e864b0)
 <br/><br/>
 *Description: Screenshot of the desktop view*
 
