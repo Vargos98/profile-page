@@ -1,4 +1,4 @@
-(https://github.com/Vargos98/profile-page/assets/127929058/496518d0-dbf2-4a06-bd22-5fce20e864b0)
+https://github.com/Vargos98/profile-page/assets/127929058/496518d0-dbf2-4a06-bd22-5fce20e864b0
 Fashion Look - Website concept<br/><br/>
 Live Link : https://dribble-fashion-week.vercel.app/ <br/><br/>
 Dribble Link: https://dribbble.com/shots/16636382-Fashion-Look-Website-concept
